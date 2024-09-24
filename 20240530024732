@@ -1,0 +1,13 @@
+##!/usr/bin/bash
+shotnumber='19655'
+time='1175'
+beammatter='Na'
+energy=70 #keV
+toroidal_deflection=0 #degree
+diameter=5 #mm
+particles=1000
+detector='0.6846,0.285,-0.04,38,0'
+electric_field_module=0
+detector_mask='final'
+solver='rk'
+secondary_ionisation=1
